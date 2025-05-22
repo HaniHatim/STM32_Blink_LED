@@ -1,4 +1,4 @@
-# STM32 Onboard LED Blink - First Project
+# STM32 Beginner Series #1 – Blink Onboard LED with GPIO
 
 Welcome to our first STM32 project! 🎉
 
